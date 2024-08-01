@@ -1,0 +1,57 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+:root {
+  --gray: rgb(124, 116, 116);
+}
+
+img {
+  width: 70px;
+  padding: 10px;
+  border: 1px solid var(--gray);
+}
+
+.introduction {
+  text-align: center;
+}
+
+.introduction h1 {
+  font-size: 40px;
+}
+
+.our-values {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+}
+
+.value-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.card-text {
+  width: 43%;
+}
+
+.value-card-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 5px;
+}
