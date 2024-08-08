@@ -1,0 +1,42 @@
+* {
+  border: none;
+  outline: none;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  text-decoration: none !important;
+  resize: none;
+}
+
+body {
+  background-image: url("https://pbs.twimg.com/media/CZxYUWgWIAMnHff?format=jpg&name=4096x4096");
+  background-size: cover;
+}
+
+.top-bookmarks-container {
+}
+.top-bookmark {
+}
+.fa-solid {
+}
+.fa-bookmark {
+}
+.more-icon-container {
+}
+.fa-angles-right {
+}
+.nav-item {
+}
+.fa-share-nodes {
+}
+.search-bar {
+}
+.fa-search {
+}
+.fa-microphone {
+}
+.main-bookmarks-container {
+}
+.main-bookmark {
+}
+.fa-plus {
+}
