@@ -1,1 +1,3 @@
-live url: https://sliyarli.github.io/CA-mentor-task/
+# Code Academy Tasks
+
+Live url: [https://sliyarli.github.io/CodeAcademy-Tasks/]
