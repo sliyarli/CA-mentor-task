@@ -1,3 +1,3 @@
-# Code Academy Tasks
+# Code Academy Mentor Tasks
 
-Live url: [https://sliyarli.github.io/CodeAcademy-Tasks/]
+Live url: [https://sliyarli.github.io/codeAcademy-mentorTasks/]
